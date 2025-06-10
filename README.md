@@ -8,6 +8,6 @@ In the center of the scene is realistic Ferrari F40 LM with a racing aero bodyki
 ``
 
 ## Hardware Specs
-* GPU: NVIDIA RTX 3070
-* VRAM: 8 GB
-* RAM: 64 GB DDR4
+* **GPU**: NVIDIA RTX 3070
+* **VRAM**: 8 GB
+* **RAM**: 64 GB DDR4
