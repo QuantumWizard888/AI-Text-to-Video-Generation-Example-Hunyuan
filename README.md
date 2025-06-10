@@ -1,6 +1,6 @@
 # AI Text-to-Video Generation Example using Hunyuan Model
 
-This repository includes the prompt and the ComfyUI Worrkflow configuration that were used to generate the video. And yes - the video is included too.
+This repository includes the prompt and the ComfyUI Workflow configuration that were used to generate the video with 8 GB of VRAM. And yes - the video is included too.
 
 ## Prompt
 ``
