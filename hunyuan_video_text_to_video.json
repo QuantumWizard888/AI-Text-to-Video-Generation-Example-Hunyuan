@@ -758,7 +758,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "AnimateDiff_00001.png",
-            "fullpath": "C:\\Users\\Ali\\Desktop\\My Work\\ComfyUI_windows_portable_nvidia\\ComfyUI\\output\\AnimateDiff_00001.mp4"
+            "fullpath": "C:\\Users\\USERNAME\\Desktop\\My Work\\ComfyUI_windows_portable_nvidia\\ComfyUI\\output\\AnimateDiff_00001.mp4"
           }
         }
       }
