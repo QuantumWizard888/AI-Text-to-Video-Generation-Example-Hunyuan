@@ -1,6 +1,6 @@
 # AI Text-to-Video Generation Example using Hunyuan Model
 
-This repository includes the prompt and the ComfyUI Workflow configuration that were used to generate the video with 8 GB of VRAM. And yes - the video is included too.
+This repository includes the prompt and the ComfyUI Workflow configuration that were used to generate the video with 8 GB of VRAM. And yes - the video is included too. For mp4 video generation the [**ComfyUI-VideoHelperSuite**](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) nodes extension was used.
 
 ## Prompt
 ``
